@@ -1,4 +1,4 @@
-package poo;
+package entities;
 
 public class CurrencyConverter {
 	public static double IOF = 0.06;

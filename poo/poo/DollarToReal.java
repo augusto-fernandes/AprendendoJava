@@ -3,6 +3,8 @@ package poo;
 import java.util.Locale;
 import java.util.Scanner;
 
+import entities.CurrencyConverter;
+
 public class DollarToReal {
 
 	public static void main(String[] args) {

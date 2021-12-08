@@ -8,5 +8,6 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="estruturaCondicional"/>
 	<classpathentry kind="src" path="estruturaSequencial"/>
+	<classpathentry kind="src" path="estruturaRepetitivas"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

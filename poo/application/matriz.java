@@ -1,4 +1,4 @@
-package poo;
+package application;
 
 import java.util.Scanner;
 

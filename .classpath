@@ -10,5 +10,6 @@
 	<classpathentry kind="src" path="estruturaSequencial"/>
 	<classpathentry kind="src" path="estruturaRepetitivas"/>
 	<classpathentry kind="src" path="poo"/>
+	<classpathentry kind="src" path="enumeracoesEcomposicoes"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

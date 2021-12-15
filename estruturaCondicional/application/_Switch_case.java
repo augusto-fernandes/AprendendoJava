@@ -1,4 +1,4 @@
-package estruturaCondicional;
+package application;
 
 import java.util.Scanner;
 

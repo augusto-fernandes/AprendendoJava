@@ -1,4 +1,4 @@
-package EstruturasRepetitivas;
+package application;
 
 public class Strings {
 

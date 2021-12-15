@@ -1,8 +1,9 @@
-package EstruturaSequencial;
+package application;
 
 import java.util.Locale;
 
-public class exercicio1 {
+public class exercicio
+{
 
 	public static void main(String[] args) {
 		String Product1 = "Computer";

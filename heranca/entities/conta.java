@@ -1,6 +1,6 @@
 package entities;
 
-public class conta {
+public /*abstract*/ class  conta {
 	private Integer number;
 	private String holder;
 	protected Double balance;

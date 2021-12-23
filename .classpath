@@ -5,7 +5,6 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="estruturaCondicional"/>
 	<classpathentry kind="src" path="estruturaSequencial"/>
 	<classpathentry kind="src" path="estruturaRepetitivas"/>
@@ -13,5 +12,6 @@
 	<classpathentry kind="src" path="enumeracoesEcomposicoes"/>
 	<classpathentry kind="src" path="heranca"/>
 	<classpathentry kind="src" path="tratamentoDeExcecoes"/>
+	<classpathentry kind="src" path="TrabalhandoComArquivos"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

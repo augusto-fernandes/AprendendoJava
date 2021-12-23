@@ -1,4 +1,4 @@
-package Application;
+package aplicacao;
 
 import java.io.File;
 import java.io.IOException;
@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class blocoFinally {
 	public static void main(String[] args) {
-		File file = new File("C:\\temp\\in.txt");
+		File file = new File("C:\\\\Users\\\\Augusto\\\\Desktop\\\\curso\\\\JAVA\\\\in.txt");
 		Scanner sc = null;
 		try {
 			sc = new Scanner(file);

@@ -32,7 +32,7 @@ public class Summary {
 		String targetFileStr = sourceFolderStr + "\\out\\summary.csv";
 
 		try (BufferedReader br = new BufferedReader(new FileReader(sourceFileStr))) {
-
+			System.out.println("Directory created successfully: " + success);
 			String itemCsv = br.readLine();
 			while (itemCsv != null) {
 

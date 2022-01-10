@@ -14,5 +14,6 @@
 	<classpathentry kind="src" path="tratamentoDeExcecoes"/>
 	<classpathentry kind="src" path="TrabalhandoComArquivos"/>
 	<classpathentry kind="src" path="interfaces"/>
+	<classpathentry kind="src" path="genericsSetsMap"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

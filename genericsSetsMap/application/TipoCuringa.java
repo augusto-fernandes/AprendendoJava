@@ -1,3 +1,4 @@
+package application;
 import java.util.Arrays;
 import java.util.List;
 
@@ -11,9 +12,11 @@ public class TipoCuringa {
 		printList(myStrs);	
 	}
 	
+	// o "?" é um tipo curinga que serve pra imprimir uma lista de qualquer tipo.
 	public static void printList(List<?> list) {
 		for( Object obj: list) {
-			System.out.println("obj");
+			System.out.println(obj);
+
 		}
 	}
 }

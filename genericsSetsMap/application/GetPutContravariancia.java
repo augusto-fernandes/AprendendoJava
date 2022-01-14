@@ -16,7 +16,7 @@ public class GetPutContravariancia {
 			myNums.add(10);
 			myNums.add(3.14);
 		
-		Number x = myNums.get(0); // erro de compilacao
+		//Number x = myNums.get(0); // erro de compilacao
 	}
 
 }

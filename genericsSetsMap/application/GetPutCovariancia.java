@@ -19,7 +19,7 @@ public class GetPutCovariancia {
 		Number x = list.get(0);
 		
 		// o compilador nao sabe se o int vai ser compativel com um possivel outro tipo Number.	
-		list.add(20);	 // erro de compilacao
+		//list.add(20);	 // erro de compilacao
 		
 
 	}

@@ -16,7 +16,6 @@ public class Comparatormain {
 			list.add(new Product5("Tablet", 450.00));
 
 			list.sort((p1, p2) -> p1.getName().toUpperCase().compareTo(p2.getName().toUpperCase()));
-
 			for (Product5 p : list) {
 				System.out.println(p);
 			}

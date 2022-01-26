@@ -13,12 +13,19 @@ public class DemoPipeline {
 		Stream<Integer> st1 = list.stream().map(x -> x * 10);
 		System.out.println(Arrays.toString(st1.toArray()));
 		
+		//soma todos os valores na lista 
 		int sum = list.stream().reduce(0, (x, y) -> x + y);
+		int vezes = list.stream().reduce(1, (x, y) -> x * y);
 		
 		System.out.println("Sum = " + sum);
+		System.out.println("vezes =" + vezes);
+		
 		List<Integer> newList = list.stream()
+					//pega apenas os valores pares
 				.filter(x -> x % 2 == 0)
+					//vai multiplicar toda a stream por 10
 				.map(x -> x * 10)
+					//transforma em lista
 				.collect(Collectors.toList());
 		System.out.println(Arrays.toString(newList.toArray()));
 	}

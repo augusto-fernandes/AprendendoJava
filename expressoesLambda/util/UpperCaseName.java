@@ -1,3 +1,5 @@
+package util;
+
 import java.util.function.Function;
 
 import entities.ProductFunction;
